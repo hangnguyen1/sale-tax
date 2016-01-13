@@ -1,0 +1,4 @@
+1, imported, perfume, 27.99
+1, local, perfume, 18.99
+1, local, pill, 9.75
+1, imported, chocolate, 11.25
